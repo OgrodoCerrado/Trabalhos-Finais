@@ -1,0 +1,3 @@
+Jogo da memória - Explicação 
+
+Bem, seguindo os passos do link instrucional, comecei fazendo as classes div para colocar as cartas(frente e verso). Após isso comecei a programar de pouco em pouco o CSS e o javascript, sempre tentando manter tudo sobre controle, seja testando se as cartas respondiam quando eram clicadas ou se permaneciam viradas caso o usuário acertasse o par de cartas. Após terminar o tutorial do jogo da memória enviado por link, comecei a fazer as alterações como aumentar o número de cartas, abrasileirar os termos e além disso implementar a função de alert quando o jogo abrisse e quando ele terminasse, de forma que iria aparecer o número de tentativas falhas que o jogador fez antes de conseguir ganhar.
